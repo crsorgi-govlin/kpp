@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+crsgov.click	TRUE	/	FALSE	1999999999	PHPSESSID	1f96e6e9ac2f5872f0c4354e6e899b0d
+
